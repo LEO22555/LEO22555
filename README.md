@@ -1,5 +1,5 @@
-# 💫 Hi I`mLeo:
-🔭 I’m currently working on data science and web development<br>👯 I’m looking to collaborate on spatial analysis and data science<br>🤝 I’m looking for help with Deep learning projects<br>🌱 I’m currently learning deep learning techniques applied in landslides susceptibilty assesment<br>💬 Ask me about geology and landslides<br>⚡ Fun fact: I love deep house music and cycling
+# 💫 Hi I am Leo:
+🔭 I’m currently working on data science and web development<br>👯 I’m looking to collaborate on spatial analysis and data science<br>🤝 I’m looking for help with Deep learning projects<br>🌱 I’m currently learning deep learning techniques applied in landslides susceptibilty assesment<br>💬 Ask me about geology, geomorphology and landslides<br>⚡ Fun fact: I love deep house music and cycling
 
 
 # 💻 Tech Stack:
